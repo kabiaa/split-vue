@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Split File",
+        "command": "split-vue:split"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "split-vue",
+          "submenu": [
+            {
+              "label": "Split File",
+              "command": "split-vue:split"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

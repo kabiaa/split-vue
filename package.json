@@ -1,0 +1,21 @@
+{
+  "name": "split-vue",
+  "main": "./lib/split-vue",
+  "version": "0.0.0",
+  "description": "Split templates into separate pane",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "split-vue:split"
+  },
+  "activationHooks": [
+    "core:loaded-shell-environment"
+  ],
+  "repository": "https://github.com/kabiaa/split-vue",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
