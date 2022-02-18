@@ -1,7 +1,7 @@
 {
   "name": "split-vue",
   "main": "./lib/split-vue",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Split templates into separate pane",
   "keywords": [],
   "activationCommands": {
